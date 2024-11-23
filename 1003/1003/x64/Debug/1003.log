@@ -1,2 +1,6 @@
-﻿  gpt.c
-  1003.vcxproj -> D:\C_develop\code\practice\1003\x64\Debug\1003.exe
+﻿  暴力求解.c
+暴力求解.obj : error LNK2005: main 已经在 Kadane's Algorithm.obj 中定义
+第一版草稿.obj : error LNK2005: main 已经在 Kadane's Algorithm.obj 中定义
+草稿错误纠正.obj : error LNK2005: Sub_sum 已经在 第一版草稿.obj 中定义
+草稿错误纠正.obj : error LNK2005: main 已经在 Kadane's Algorithm.obj 中定义
+D:\C_develop\code\practice\1003\x64\Debug\1003.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
